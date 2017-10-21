@@ -1,8 +1,8 @@
 cat
 dog
 <<<<<<< HEAD
-octoman
+octodog 3
 =======
-octodog
+octodog 2
 >>>>>>> octodog
 octocat
