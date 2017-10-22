@@ -1,8 +1,17 @@
+<<<<<<< HEAD
+cat master not chosen
+dog master chosen
+octodog 3 master not chosen
+octocat master chosen
+||||||| merged common ancestors
 cat
 dog
-<<<<<<< HEAD
-octodog 3
-=======
 octodog 2
->>>>>>> octodog
 octocat
+=======
+cat octo chosen
+dog octo not chosen
+octodog 2 octo chosen
+octocat not chosen
+new text
+>>>>>>> octodog

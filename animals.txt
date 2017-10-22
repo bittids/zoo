@@ -1,4 +1,5 @@
-cat master not chosen
-dog master chosen
-octodog 3 master not chosen
-octocat master chosen
+cat octo chosen
+dog octo not chosen
+octodog 2 octo chosen
+octocat not chosen
+new text
