@@ -1,4 +1,5 @@
-cat
-dog
-octodog 2
-octocat
+cat octo chosen
+dog octo not chosen
+octodog 2 octo chosen
+octocat not chosen
+new text
